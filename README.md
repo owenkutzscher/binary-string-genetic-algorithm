@@ -1,4 +1,4 @@
-# binary-string-evolutionary-algorithm
+# binary-string-genetic-algorithm
 Mutates binary strings to match a target binary string
 
 #### Goal
